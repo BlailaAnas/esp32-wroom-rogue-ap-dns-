@@ -50,7 +50,6 @@ It’s a lightweight, low-cost educational tool to understand wireless attacks a
 - Security awareness training
 - Captive portal phishing tests
 
----
 
 ## 🧠 Learn More
 
@@ -58,7 +57,7 @@ It’s a lightweight, low-cost educational tool to understand wireless attacks a
 - [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer)
 - [DNS Spoofing](https://en.wikipedia.org/wiki/DNS_spoofing)
 
----
+## 📦Bored manager library : https://dl.espressif.com/dl/package_esp32_index.json
 
 ## 🛡️ Warning
 
